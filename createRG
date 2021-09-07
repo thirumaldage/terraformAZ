@@ -1,0 +1,9 @@
+provider "azurerm" {
+  version = "= 2.18"
+  features {}
+}
+
+resource "azurerm_resource_group" "myRG"{
+name = "demoRG"
+location = "westeurope"
+}
