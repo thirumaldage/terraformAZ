@@ -9,3 +9,4 @@ resource "azurerm_resource_group" "myRG" {
 	name = "testRG"
 	location = "westeurope"
 }
+//comment
