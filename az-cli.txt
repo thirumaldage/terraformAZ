@@ -22,3 +22,4 @@ az ad sp create-for-rbac --role="Contributor" --scopes="/subscriptions/SUBSCRIPT
 az logout
 #command to logout the azure cli
 #created new branch called testing under terraform AZ
+#second time updating in branch
